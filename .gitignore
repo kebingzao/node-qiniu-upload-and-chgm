@@ -3,3 +3,7 @@ node_modules/
 .idea
 qiniu/
 qshell/
+apk相关渠道包/
+ipa相关渠道包/
+plist相关渠道包/
+qiniu-dl/
